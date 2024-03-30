@@ -1,6 +1,6 @@
 {
-  "name": "file_remover",
-  "version": "1.0.0",
+  "name": "@aneesakbar/file_remover",
+  "version": "1.0.1",
   "description": "FileRemover is a Node.js program that removes files from a directory.",
   "main": "fileremover.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/eranees/file_remover/issues"
   },
-  "homepage": "https://github.com/eranees/file_remover#readme"
+  "homepage": "https://github.com/eranees/file_remover#readme",
+  "dependencies": {
+    "file_remover": "^1.0.1"
+  },
+  "devDependencies": {}
 }
